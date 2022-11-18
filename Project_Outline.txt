@@ -1,0 +1,3 @@
+In this project, several techniques of late data fusion applied to improve the performance of automatic medical multimodal classification will be implemented.
+Specifically, a software based on MATLAB will be developed to achieve our framework in which multimodal data undergo pre-processing, 
+classification and late fusion, and assessment of results can be obtained when different classifiers and different late fusion methods are utilized.
